@@ -288,6 +288,7 @@ DerivedData/
 ## Gcc Patch
 /*.gcno
 
+<<<<<<< HEAD
 ############################################################
 # JupyterNotebooks.                                        #
 ############################################################
@@ -300,3 +301,4 @@ profile_default/
 ipython_config.py
 
 .env
+.ipynb_checkpoints
